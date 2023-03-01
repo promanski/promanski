@@ -10,5 +10,5 @@ I'm from Poland 🇵🇱 , living in Kraków 🥯.
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
 \
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=promanski&theme=gotham&range=all_time&count_private=true&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=promanski&theme=gotham&range=all_time&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
 
